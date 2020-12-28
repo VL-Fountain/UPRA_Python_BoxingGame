@@ -9,4 +9,9 @@ Developers:
 Cristian Fuentes-Beniquez,
 Brian I. Diaz Rivera
  
+Controls:
+Up-Key = Punch, Left-Key = Left Dodge, Right-Key = Right Dodge
+
+How to play:
+Watch for visual queues to dodge incoming punches and land a counter punch when your oponent misses.
 
